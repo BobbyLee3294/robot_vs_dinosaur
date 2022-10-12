@@ -1,0 +1,1 @@
+from weapon_class import Weapon
